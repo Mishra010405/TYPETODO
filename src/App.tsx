@@ -8,7 +8,9 @@ function App() {
 
   return (
     <main>
-      <h1>TODO REACT + TYPESCRIPT</h1>
+      <h1 className="text-5xl font-bold text-center">
+      TODO REACT + TYPESCRIPT
+      </h1>
     <Addtodo/>
     <Todos/>
     </main>
