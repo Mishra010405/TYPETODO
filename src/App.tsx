@@ -7,7 +7,13 @@ function App() {
  
 
   return (
-    <mai
+    <main>
+      <h1 className="text-5xl font-bold text-center">
+      TODO REACT + TYPESCRIPT
+      </h1>
+    <Addtodo/>
+    <Todos/>
+    </main>
   )
 }
 
